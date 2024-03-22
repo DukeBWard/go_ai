@@ -1,1 +1,1 @@
-# go_ai
+# go_email_verifier
